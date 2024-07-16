@@ -14,36 +14,36 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   #database
-  firebase_core: ^1.16.0
-  firebase_auth: ^3.3.17
-  google_sign_in: ^5.3.0
+  firebase_core: ^3.2.0
+  firebase_auth: ^5.1.2
+  google_sign_in: ^6.2.1
 
   #new
-  firebase_storage: ^10.2.15
-  firebase_dynamic_links: ^4.2.2
-  cloud_firestore: ^3.1.10
-  modal_bottom_sheet: ^2.0.1
+  firebase_storage: ^12.1.1
+  firebase_dynamic_links: ^6.0.3
+  cloud_firestore: ^5.1.0
+  modal_bottom_sheet: ^3.0.0
 
   #state management control
   provider: ^6.0.2
-  either_dart: ^0.1.4
+  either_dart: ^1.0.0
   get_it: ^7.2.0
 
   #utils
-  intl: ^0.17.0
-  extended_image: ^6.0.3
+  intl: ^0.19.0
+  extended_image: ^8.2.1
   equatable: ^2.0.3
   shared_preferences: ^2.0.13
   url_launcher: ^6.1.0
   random_string: ^2.3.1
-  file_picker: ^4.5.1
+  file_picker: ^8.0.6
   fluttertoast: ^8.0.8
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  flutter_lints: ^1.0.0
+  flutter_lints: ^4.0.0
 
 flutter:
   uses-material-design: true
